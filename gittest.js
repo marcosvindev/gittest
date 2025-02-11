@@ -11,11 +11,3 @@ if (user == "Hello World" || "hello world" || "Hello world" || "hello" || "Hello
 for (let i = 0; i < 10; i++ ) {
     console.log(i);
 }
-
-let userNumber = Number(prompt("Type a number/Digite um número"));
-let counter = 0;
-
-while (userNumber != counter) {
-    console.log(userNumber--);
-}
-
