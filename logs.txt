@@ -1,0 +1,189 @@
+commit bed5099b6c4bd754c2efb50f3a9f09c1947c897b
+Author: MarcosVinDev <marcosviniciossl3@gmail.com>
+Date:   Fri Feb 14 15:27:42 2025 -0300
+
+    readmed added
+
+commit 03326d243a4f3ab8710da56c26d21fd245df4591
+Author: MarcosVinDev <marcosviniciossl3@gmail.com>
+Date:   Fri Feb 14 15:19:06 2025 -0300
+
+    removing txt and ignore
+
+commit ccb165714e0b58124834d46c142f9c2febb09c73
+Author: MarcosVinDev <marcosviniciossl3@gmail.com>
+Date:   Fri Feb 14 15:16:05 2025 -0300
+
+    git ignore ten million
+
+commit bda8bde967cd1a7ed4d95e9bc752920ffd703d1c
+Author: MarcosVinDev <marcosviniciossl3@gmail.com>
+Date:   Fri Feb 14 15:15:47 2025 -0300
+
+    testinggitignore
+
+commit 29a964c1ed7f41c897e767a5ceac05096a6065d4
+Author: MarcosVinDev <marcosviniciossl3@gmail.com>
+Date:   Fri Feb 14 15:14:00 2025 -0300
+
+    with slash
+
+commit 92e7c64182b201fb60dd9cbce5586b3afa861972
+Author: MarcosVinDev <marcosviniciossl3@gmail.com>
+Date:   Fri Feb 14 15:12:54 2025 -0300
+
+    different way to ignore gittxt
+
+commit 3d6ea584485d1ce5b58648de81fdd61ade5fc8e4
+Author: MarcosVinDev <marcosviniciossl3@gmail.com>
+Date:   Fri Feb 14 15:10:26 2025 -0300
+
+    trying to ignore gittxt
+
+commit 9881c921c214aa1b3369bb4a1f65f3804464b256
+Author: MarcosVinDev <marcosviniciossl3@gmail.com>
+Date:   Fri Feb 14 15:07:29 2025 -0300
+
+    changing log.txt to logs..txt
+
+commit 6dd961e03abe9c3fea8adb5d258b2e69e225f0e6
+Author: MarcosVinDev <marcosviniciossl3@gmail.com>
+Date:   Fri Feb 14 15:05:43 2025 -0300
+
+    Fixing GitIgnore
+
+commit 9a2d5f68344b6a1a66cb07060f17b4dd1e72d049
+Author: MarcosVinDev <marcosviniciossl3@gmail.com>
+Date:   Fri Feb 14 15:04:34 2025 -0300
+
+    Git ignore added
+
+commit 8985fecd8f49b63cb06842b7b1bab7bd4a79d1c6
+Author: MarcosVinDev <marcosviniciossl3@gmail.com>
+Date:   Fri Feb 14 15:02:37 2025 -0300
+
+    git txt renamed
+
+commit 495df18d0726ace8ecfa121107d876e80ec33624
+Author: MarcosVinDev <marcosviniciossl3@gmail.com>
+Date:   Fri Feb 14 15:00:42 2025 -0300
+
+    txt added
+
+commit a8aa4cf736dad98c4f8bd8e13d12090830d98310
+Author: MarcosVinDev <marcosviniciossl3@gmail.com>
+Date:   Fri Feb 14 12:47:06 2025 -0300
+
+    Last Commit
+
+commit 135ce92f0d83ee443d20c46a4c61f68f6d838b5b
+Author: MarcosVinDev <marcosviniciossl3@gmail.com>
+Date:   Fri Feb 14 12:44:08 2025 -0300
+
+    Revert "I'm Minimalist!"
+    
+    This reverts commit 69079c45fbb420d42cf20c80c309235565f7253d.
+
+commit 7808555bea34707e5f8d191b9db60fc6bc3b8157
+Merge: 69079c4 9940592
+Author: MarcosVinDev <marcosviniciossl3@gmail.com>
+Date:   Fri Feb 14 12:41:42 2025 -0300
+
+    Merge branch 'main' of github.com:marcosvindev/gittest
+
+commit 69079c45fbb420d42cf20c80c309235565f7253d
+Author: MarcosVinDev <marcosviniciossl3@gmail.com>
+Date:   Fri Feb 14 12:37:55 2025 -0300
+
+    I'm Minimalist!
+
+commit 9940592ee898adcb1a01cef82cbb50e4ab7d965e
+Author: MarcosVinDev <marcosviniciossl3@gmail.com>
+Date:   Fri Feb 14 12:37:55 2025 -0300
+
+    Add and sync
+
+commit 402061ffcdf1947bcffbb2ba82d0055e66e3c3db
+Author: MarcosVinDev <marcosviniciossl3@gmail.com>
+Date:   Fri Feb 14 12:36:45 2025 -0300
+
+    Reapply "imc removed"
+    
+    This reverts commit fd5a93263e5bf486210de68617c5ad94292ba881.
+
+commit 09b83216983537a9e66b2764e9f4228b7b41bfe8
+Author: MarcosVinDev <marcosviniciossl3@gmail.com>
+Date:   Fri Feb 14 12:34:09 2025 -0300
+
+    Revert "Removing Things"
+    
+    This reverts commit 7703b3bdb843f58045e60e39c33041f6a82552ca.
+
+commit 8efe5f292938b5bdf9b04c6bd6eab54110afb829
+Merge: 7703b3b d7d8ac2
+Author: MarcosVinDev <marcosviniciossl3@gmail.com>
+Date:   Fri Feb 14 12:33:36 2025 -0300
+
+    Merge branch 'main' of github.com:marcosvindev/gittest
+
+commit 7703b3bdb843f58045e60e39c33041f6a82552ca
+Author: MarcosVinDev <marcosviniciossl3@gmail.com>
+Date:   Fri Feb 14 12:32:42 2025 -0300
+
+    Removing Things
+
+commit d7d8ac249093fdf8399a9da8ff3daee5293f0026
+Author: MarcosVinDev <marcosviniciossl3@gmail.com>
+Date:   Fri Feb 14 12:27:04 2025 -0300
+
+    Novo Commit
+
+commit fd5a93263e5bf486210de68617c5ad94292ba881
+Author: MarcosVinDev <marcosviniciossl3@gmail.com>
+Date:   Fri Feb 14 12:24:28 2025 -0300
+
+    Revert "imc removed"
+    
+    This reverts commit 63cf8caf2f4a0d326043b08b9f62e5a8bfabc9ec.
+
+commit 6cfffdc3ffec2dd59f581aad0ede47ae93ff33b9
+Author: MarcosVinDev <marcosviniciossl3@gmail.com>
+Date:   Fri Feb 14 12:22:07 2025 -0300
+
+    Adicionando testjs
+
+commit 63cf8caf2f4a0d326043b08b9f62e5a8bfabc9ec
+Author: MarcosVinDev <marcosviniciossl3@gmail.com>
+Date:   Fri Feb 14 09:57:15 2025 -0300
+
+    imc removed
+
+commit c468e84c147cc78cf26dab34025f81da1d8d9f55
+Author: MarcosVinDev <marcosviniciossl3@gmail.com>
+Date:   Wed Feb 12 23:43:03 2025 -0300
+
+    New Commit
+
+commit c94b93a1e32e3e99e0e788e46fb7ad0b3bf5f1bb
+Author: MarcosVinDev <marcosviniciossl3@gmail.com>
+Date:   Tue Feb 11 18:59:24 2025 -0300
+
+    thrid commit
+
+commit 8d42a96036bc5338e7c1ebcee71782119c73f582
+Author: MarcosVinDev <marcosviniciossl3@gmail.com>
+Date:   Tue Feb 11 18:32:30 2025 -0300
+
+    while added in console
+
+commit 5577af81896909e5f561de0fdc6c459d1e8e4dd7
+Author: MarcosVinDev <marcosviniciossl3@gmail.com>
+Date:   Tue Feb 11 18:16:05 2025 -0300
+
+    for added in the log
+
+commit 6a269a35c6f4331adc3eb5d3ff6da433c163f0b7
+Author: MarcosVinDev <marcosviniciossl3@gmail.com>
+Date:   Tue Feb 11 17:42:03 2025 -0300
+
+    git test
