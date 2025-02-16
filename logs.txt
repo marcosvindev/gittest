@@ -1,3 +1,21 @@
+commit 74efeb20a18827ee6ab70a5a171b5ece545a124b
+Author: MarcosVinDev <marcosviniciossl3@gmail.com>
+Date:   Fri Feb 14 15:33:47 2025 -0300
+
+    ignore test
+
+commit f2af37a006a4856b052fcd986f1bd7ac79a545c0
+Author: MarcosVinDev <marcosviniciossl3@gmail.com>
+Date:   Fri Feb 14 15:30:45 2025 -0300
+
+    not ignorering log
+
+commit 240cc1a0509727b85f7a0caf1afcf410261745aa
+Author: MarcosVinDev <marcosviniciossl3@gmail.com>
+Date:   Fri Feb 14 15:29:58 2025 -0300
+
+    second time t rying to use gitignore
+
 commit bed5099b6c4bd754c2efb50f3a9f09c1947c897b
 Author: MarcosVinDev <marcosviniciossl3@gmail.com>
 Date:   Fri Feb 14 15:27:42 2025 -0300
